@@ -1,0 +1,12 @@
+Package: matrixutils
+Type: Package
+Title: Utilities to manipulate matrices.
+Version: 1.0.0
+Date: 2015-06-12
+Author: Yann Buechau <nobodyinperson@gmx.de>
+Maintainer: Yann Buechau <nobodyinperson@gmx.de>
+Description: Provides functions for flipping and rotating 2d-matrices.
+License: GPL-2
+Suggests:
+    compiler
+RoxygenNote: 5.0.1
