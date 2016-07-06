@@ -11,6 +11,10 @@
 # Output files from R CMD build
 /*.tar.gz
 .Rbuildignore
+# fortran output files
+*.o
+*.so
+*.mod
 
 # Output files from R CMD check
 /*.Rcheck/
